@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Raphael
 - 👀 I’m interested in Server-Side Web development, game development, new tecnologies and a few other things.
-- 🌱 I’m currently learning Client-Side Web development with EBAC
+- 🌱 I’m currently learning Server-Side Web development with EBAC
 - 💞️ I’m looking to collaborate on any company that welcomes me and gives me space to grow.
 - 📫 How to reach me: https://rafahub.netlify.app/  <---- at the end of this page, you'll be able to send me a message.
 - 😄 Pronouns:He/Him
